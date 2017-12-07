@@ -19,3 +19,11 @@ Enter y to proceed when prompted.
 
 1. conda install -c anaconda python=3.6.1
 2. conda install -c peterjc123 pytorch=0.1.12
+
+ Change the directory in the Anaconda Prompt to the known path where the kivy wheel was downloaded. ( For me this path is C:\Users\Indushekhar\Downloads, so change the below command accordingly for your system)
+ 
+Once the path has been changed succesfully, you should now enter these commands in the Anaconda prompt to install Kivy
+
+1. pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
+2. pip install kivy.deps.gstreamer
+3. pip install Kivy-1.10.1.dev0-cp36-cp36m-win_amd64.whl
