@@ -21,6 +21,7 @@ Enter y to proceed when prompted.
 2. conda install -c peterjc123 pytorch=0.1.12
 
  Change the directory in the Anaconda Prompt to the known path where the kivy wheel was downloaded. ( For me this path is C:\Users\Indushekhar\Downloads, so change the below command accordingly for your system)
+ cd C:\Users\Indushekhar\Downloads
  
 Once the path has been changed succesfully, you should now enter these commands in the Anaconda prompt to install Kivy
 
