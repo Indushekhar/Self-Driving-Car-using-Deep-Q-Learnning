@@ -1,7 +1,10 @@
 # Self-Driving-Car-using-Deep-Q-Learnning
 Self Driving car using Deep Q learning : A course project for the course ENPM 808F Robot Learning
 
-To start the simulation run the Simulation file.
+To start the simulation run the Simulation file. 
+Obstacle or road can be created using right click of the mouse.
+To save the training data , press save button on the graphical interface.
+Press load button to load the last saved training data.
 
 Requirement :
 
