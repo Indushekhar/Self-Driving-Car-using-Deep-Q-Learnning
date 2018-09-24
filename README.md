@@ -7,7 +7,9 @@ To save the training data , press save button on the graphical interface.
 Press load button to load the last saved training data.
 
 <p align="center">
+ 
 ![Test Image 1](https://github.com/Indushekhar/Pid-Controller/blob/master/Class_Diagram.png)
+
  </p>
 
 Requirement :
